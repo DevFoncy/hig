@@ -7,6 +7,12 @@
          url("https://fonts.autodesk.com/ArtifaktElement/WOFF/Artifakt%20Element%20Thin.woff") format("woff"),
          url("https://fonts.autodesk.com/ArtifaktElement/TTF/Artifakt%20Element%20Thin.ttf") format("truetype");
     /* Safari, Android, iOS */
+    /* IE9 Compat Modes */
+    src: url("../local/ArtifaktElement200/ArtifaktElementThin.eot") format("embedded-opentype"),
+         url("../local/ArtifaktElement200/ArtifaktElementThin.woff2") format("woff2"),
+         url("../local/ArtifaktElement200/ArtifaktElementThin.woff") format("woff"),
+         url("../local/ArtifaktElement200/ArtifaktElementThin.ttf") format("truetype");
+     /* Safari, Android, iOS */
     font-weight: 200;
     font-style: normal; 
     font-display: swap;

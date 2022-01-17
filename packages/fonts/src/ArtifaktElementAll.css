@@ -5,6 +5,10 @@
         url('https://fonts.autodesk.com/ArtifaktElement/WOFF2/Artifakt%20Element%20Hair.woff2') format('woff2'), /* Super Modern Browsers */
         url('https://fonts.autodesk.com/ArtifaktElement/WOFF/Artifakt%20Element%20Hair.woff') format('woff'), /* Pretty Modern Browsers */
         url('https://fonts.autodesk.com/ArtifaktElement/TTF/Artifakt%20Element%20Hair.ttf')  format('truetype'); /* Safari, Android, iOS */
+    src:url('../local/ArtifaktElement100/ArtifaktElementHair.eot') format('embedded-opentype'), /* IE6-IE8 */
+        url('../local/ArtifaktElement100/ArtifaktElementHair.woff2') format('woff2'), /* Super Modern Browsers */
+        url('../local/ArtifaktElement100/ArtifaktElementHair.woff') format('woff'), /* Pretty Modern Browsers */
+        url('../local/ArtifaktElement100/ArtifaktElementHair.ttf')  format('truetype'); /* Safari, Android, iOS */  
     font-weight: 100;
     font-style: normal;
     font-display: swap;
@@ -16,6 +20,10 @@
         url('https://fonts.autodesk.com/ArtifaktElement/WOFF2/Artifakt%20Element%20Thin.woff2') format('woff2'), /* Super Modern Browsers */
         url('https://fonts.autodesk.com/ArtifaktElement/WOFF/Artifakt%20Element%20Thin.woff') format('woff'), /* Pretty Modern Browsers */
         url('https://fonts.autodesk.com/ArtifaktElement/TTF/Artifakt%20Element%20Thin.ttf')  format('truetype'); /* Safari, Android, iOS */
+    src:url("../local/ArtifaktElement200/ArtifaktElementThin.eot") format("embedded-opentype"),
+        url("../local/ArtifaktElement200/ArtifaktElementThin.woff2") format("woff2"),
+        url("../local/ArtifaktElement200/ArtifaktElementThin.woff") format("woff"),
+        url("../local/ArtifaktElement200/ArtifaktElementThin.ttf") format("truetype");
     font-weight: 200;
     font-style: normal;
     font-display: swap;
@@ -27,6 +35,10 @@
         url('https://fonts.autodesk.com/ArtifaktElement/WOFF2/Artifakt%20Element%20Light.woff2') format('woff2'), /* Super Modern Browsers */
         url('https://fonts.autodesk.com/ArtifaktElement/WOFF/Artifakt%20Element%20Light.woff') format('woff'), /* Pretty Modern Browsers */
         url('https://fonts.autodesk.com/ArtifaktElement/TTF/Artifakt%20Element%20Light.ttf')  format('truetype'); /* Safari, Android, iOS */
+    src:url("../local/ArtifaktElement300/ArtifaktElementLight.eot") format("embedded-opentype"),
+        url("../local/ArtifaktElement300/ArtifaktElementLight.woff2") format("woff2"),
+        url("../local/ArtifaktElement300/ArtifaktElementLight.woff") format("woff"),
+        url("../local/ArtifaktElement300/ArtifaktElementLight.ttf") format("truetype");
     font-weight: 300;
     font-style: normal;
     font-display: swap;
@@ -38,6 +50,10 @@
         url('https://fonts.autodesk.com/ArtifaktElement/WOFF2/Artifakt%20Element%20Regular.woff2') format('woff2'), /* Super Modern Browsers */
         url('https://fonts.autodesk.com/ArtifaktElement/WOFF/Artifakt%20Element%20Regular.woff') format('woff'), /* Pretty Modern Browsers */
         url('https://fonts.autodesk.com/ArtifaktElement/TTF/Artifakt%20Element%20Regular.ttf')  format('truetype'); /* Safari, Android, iOS */
+    src:url("../local/ArtifaktElement400/ArtifaktElementRegular.eot") format("embedded-opentype"),
+        url("../local/ArtifaktElement400/ArtifaktElementRegular.woff2") format("woff2"),
+        url("../local/ArtifaktElement400/ArtifaktElementRegular.woff") format("woff"),
+        url("../local/ArtifaktElement400/ArtifaktElementRegular.ttf") format("truetype");
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -49,6 +65,10 @@
         url('https://fonts.autodesk.com/ArtifaktElement/WOFF2/Artifakt%20Element%20Book.woff2') format('woff2'), /* Super Modern Browsers */
         url('https://fonts.autodesk.com/ArtifaktElement/WOFF/Artifakt%20Element%20Book.woff') format('woff'), /* Pretty Modern Browsers */
         url('https://fonts.autodesk.com/ArtifaktElement/TTF/Artifakt%20Element%20Book.ttf')  format('truetype'); /* Safari, Android, iOS */
+    src:url("../local/ArtifaktElement500/ArtifaktElementBook.eot") format("embedded-opentype"),
+        url("../local/ArtifaktElement500/ArtifaktElementBook.woff2") format("woff2"),
+        url("../local/ArtifaktElement500/ArtifaktElementBook.woff") format("woff"),
+        url("../local/ArtifaktElement500/ArtifaktElementBook.ttf") format("truetype");
     font-weight: 500;
     font-style: normal;
     font-display: swap;
@@ -60,6 +80,10 @@
         url('https://fonts.autodesk.com/ArtifaktElement/WOFF2/Artifakt%20Element%20Medium.woff2') format('woff2'), /* Super Modern Browsers */
         url('https://fonts.autodesk.com/ArtifaktElement/WOFF/Artifakt%20Element%20Medium.woff') format('woff'), /* Pretty Modern Browsers */
         url('https://fonts.autodesk.com/ArtifaktElement/TTF/Artifakt%20Element%20Medium.ttf')  format('truetype'); /* Safari, Android, iOS */
+    src:url("../local/ArtifaktElement600/ArtifaktElementMedium.eot") format("embedded-opentype"),
+        url("../local/ArtifaktElement600/ArtifaktElementMedium.woff2") format("woff2"),
+        url("../local/ArtifaktElement600/ArtifaktElementMedium.woff") format("woff"),
+        url("../local/ArtifaktElement600/ArtifaktElementMedium.ttf") format("truetype");
     font-weight: 600;
     font-style: normal;
     font-display: swap;
@@ -71,6 +95,10 @@
         url('https://fonts.autodesk.com/ArtifaktElement/WOFF2/Artifakt%20Element%20Bold.woff2') format('woff2'), /* Super Modern Browsers */
         url('https://fonts.autodesk.com/ArtifaktElement/WOFF/Artifakt%20Element%20Bold.woff') format('woff'), /* Pretty Modern Browsers */
         url('https://fonts.autodesk.com/ArtifaktElement/TTF/Artifakt%20Element%20Bold.ttf')  format('truetype'); /* Safari, Android, iOS */
+    src:url("../local/ArtifaktElement700/ArtifaktElementBold.eot") format("embedded-opentype"),
+        url("../local/ArtifaktElement700/ArtifaktElementBold.woff2") format("woff2"),
+        url("../local/ArtifaktElement700/ArtifaktElementBold.woff") format("woff"),
+        url("../local/ArtifaktElement700/ArtifaktElementBold.ttf") format("truetype");
     font-weight: 700;
     font-style: normal;
     font-display: swap;
@@ -82,6 +110,10 @@
         url('https://fonts.autodesk.com/ArtifaktElement/WOFF2/Artifakt%20Element%20Black.woff2') format('woff2'), /* Super Modern Browsers */
         url('https://fonts.autodesk.com/ArtifaktElement/WOFF/Artifakt%20Element%20Black.woff') format('woff'), /* Pretty Modern Browsers */
         url('https://fonts.autodesk.com/ArtifaktElement/TTF/Artifakt%20Element%20Black.ttf')  format('truetype'); /* Safari, Android, iOS */
+    src:url("../local/ArtifaktElement800/ArtifaktElementBlack.eot") format("embedded-opentype"),
+        url("../local/ArtifaktElement800/ArtifaktElementBlack.woff2") format("woff2"),
+        url("../local/ArtifaktElement800/ArtifaktElementBlack.woff") format("woff"),
+        url("../local/ArtifaktElement800/ArtifaktElementBlack.ttf") format("truetype");
     font-weight: 800;
     font-style: normal;
     font-display: swap;
@@ -93,6 +125,10 @@
         url('https://fonts.autodesk.com/ArtifaktElement/WOFF2/Artifakt%20Element%20Heavy.woff2') format('woff2'), /* Super Modern Browsers */
         url('https://fonts.autodesk.com/ArtifaktElement/WOFF/Artifakt%20Element%20Heavy.woff') format('woff'), /* Pretty Modern Browsers */
         url('https://fonts.autodesk.com/ArtifaktElement/TTF/Artifakt%20Element%20Heavy.ttf')  format('truetype'); /* Safari, Android, iOS */
+    src:url("../local/ArtifaktElement900/ArtifaktElementHeavy.eot") format("embedded-opentype"),
+        url("../local/ArtifaktElement900/ArtifaktElementHeavy.woff2") format("woff2"),
+        url("../local/ArtifaktElement900/ArtifaktElementHeavy.woff") format("woff"),
+        url("../local/ArtifaktElement900/ArtifaktElementHeavy.ttf") format("truetype");
     font-weight: 900;
     font-style: normal;
     font-display: swap;

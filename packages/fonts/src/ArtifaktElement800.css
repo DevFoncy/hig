@@ -5,6 +5,12 @@
         url('https://fonts.autodesk.com/ArtifaktElement/WOFF2/Artifakt%20Element%20Black.woff2') format('woff2'), /* Super Modern Browsers */
         url('https://fonts.autodesk.com/ArtifaktElement/WOFF/Artifakt%20Element%20Black.woff') format('woff'), /* Pretty Modern Browsers */
         url('https://fonts.autodesk.com/ArtifaktElement/TTF/Artifakt%20Element%20Black.ttf')  format('truetype'); /* Safari, Android, iOS */
+    /* IE9 Compat Modes */
+    src: url("../local/ArtifaktElement800/ArtifaktElementBlack.eot") format("embedded-opentype"),
+         url("../local/ArtifaktElement800/ArtifaktElementBlack.woff2") format("woff2"),
+         url("../local/ArtifaktElement800/ArtifaktElementBlack.woff") format("woff"),
+         url("../local/ArtifaktElement800/ArtifaktElementBlack.ttf") format("truetype");
+    /* Safari, Android, iOS */
     font-weight: 800;
     font-style: normal;
     font-display: swap;
